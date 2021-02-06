@@ -4,7 +4,7 @@
       "id": 1,
       "name": "Woody",
       "image": "http://www.pngmart.com/files/3/Toy-Story-Woody-PNG-Photos.png",
-      "likes": 5
+      "likes": 6
     },
     {
       "id": 2,
@@ -47,6 +47,21 @@
       "name": "Little Green Men",
       "image": "http://www.pngmart.com/files/3/Toy-Story-Alien-PNG-File.png",
       "likes": -2
+    },
+    {
+      "name": "elsa",
+      "image": "https://en.wikipedia.org/wiki/Elsa_(Frozen)#/media/File:Elsa_from_Disney's_Frozen.png",
+      "id": 9
+    },
+    {
+      "name": "moana",
+      "image": "https://www.google.com/search?q=moana+image&hl=en&sxsrf=ALeKk01627t141n8OvEtGjzJCrOoA9Mlfw:1612465054640&source=lnms&tbm=isch&sa=X&ved=2ahUKEwi5iK229NDuAhVHHM0KHWuNCSQQ_AUoAXoECBgQAw&biw=1524&bih=1361#imgrc=vE7N3dq47YBHqM",
+      "id": 10
+    },
+    {
+      "name": "Power Ranger",
+      "image": "http://fakeImage1.com",
+      "id": 11
     }
   ]
 }
